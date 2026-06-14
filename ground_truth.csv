@@ -1,0 +1,11 @@
+image_path,gt_width_mm,gt_height_mm
+dataset/test_undistorted/img_001.jpg,85.6,54.0
+dataset/test_undistorted/img_002.jpg,85.6,54.0
+dataset/test_undistorted/img_003.jpg,85.6,54.0
+dataset/test_undistorted/img_004.jpg,85.6,54.0
+dataset/test_undistorted/img_005.jpg,85.6,54.0
+dataset/test_undistorted/img_006.jpg,85.6,54.0
+dataset/test_undistorted/img_007.jpg,85.6,54.0
+dataset/test_undistorted/img_008.jpg,85.6,54.0
+dataset/test_undistorted/img_009.jpg,85.6,54.0
+dataset/test_undistorted/img_010.jpg,85.6,54.0
